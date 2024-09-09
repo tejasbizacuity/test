@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        //changed letters 123
-        System.out.println("Changed from vs code, Word!");
+        //changed from vs code 
+        System.out.println("Hello, Word!");
     }
 }
